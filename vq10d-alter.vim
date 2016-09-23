@@ -177,7 +177,9 @@
             " endif
 "=== 60 Paste Tools
 "==== 60 Yankring
-        let g:yankring_history_dir = '~/20_Content/60_Vim-Qiuy/yankring'
+        let g:yankring_history_dir = '~/50_Environment/20_Content/20f_History/60o_Vim_Qiuy/'
+            let g:yankring_history_file = 'my_yankring_history_file'
+
 "= 20 Replace
 "== 40 Movement
 "=== 60 Find Tools
